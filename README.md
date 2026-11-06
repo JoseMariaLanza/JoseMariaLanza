@@ -1,20 +1,32 @@
-# José María Lanza · Senior Backend Developer
+# José María Lanza · Full Stack Software Engineer
 
-**PHP · Laravel · C# · .NET Core 8 · Vue 3 · NestJS**
+**Software Architecture · .NET · Node.js · Vue · React · AI Agents · DevOps**
 
-Building production-grade backend systems for US and EU clients.
-Clean Architecture. Remote-first.
+Building software products end-to-end, from frontend applications to backend systems, infrastructure and AI-powered solutions.
+
+8+ years of experience developing and maintaining production software for international clients.
+
+Interested in software architecture, distributed systems, cloud technologies and practical AI agent development.
 
 ---
 
-## Stack
+## Tech Stack
 
-**Primary:** PHP 8.x / Laravel 11 · C# / .NET Core 8  
-**Frontend:** Vue 3 · React / Next.js  
-**Additional:** NestJS / TypeScript  
-**Architecture:** Hexagonal · Clean Architecture · CQRS + MediatR · Outbox pattern  
-**Databases:** MySQL · PostgreSQL · Redis · DynamoDB  
-**Cloud:** AWS (SQS, SNS, RDS) · Docker  
+**Backend:** C# · .NET · ASP.NET Core · Node.js · NestJS · PHP · Laravel
+
+**Frontend:** Vue 3 · React · Next.js · TypeScript · JavaScript
+
+**Architecture:** Clean Architecture · Hexagonal Architecture · Microservices · CQRS · Event-Driven Architecture · SOLID
+
+**Databases:** PostgreSQL · SQL Server · MySQL · Redis
+
+**Cloud & DevOps:** AWS · Docker · Docker Compose · GitHub Actions · CI/CD
+
+**Messaging:** RabbitMQ · BullMQ · AWS SQS/SNS
+
+**AI & Developer Tools:** MCP Server Development · MCPSharp · AI Agent Integration · Claude Code · GitHub Copilot
+
+**Testing:** xUnit · Moq · FluentAssertions · Testcontainers · PHPUnit
 
 ---
 
@@ -27,4 +39,4 @@ Clean Architecture. Remote-first.
 
 ---
 
-📬 lanza.josemaria@gmail.com · [LinkedIn](https://linkedin.com/in/josemarialanza) · [josemarialanza.com](https://josemarialanza.com)
+📬 [Email](mailto:josemarialanza.dev@gmail.com) · [LinkedIn](https://linkedin.com/in/josemarialanza) · [Website](https://josemarialanza.com)
